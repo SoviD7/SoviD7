@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurav Deshmukh</h1>
 <h3 align="center">A passionate Engineer from India</h3>
-<img align="right" alt="coding" width="400" src"https://miro.medium.com/max/828/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="coding" width="400" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-programming-d5aa8fb0f280&psig=AOvVaw0jePmZgbVJg7SkQ2BBRhVp&ust=1673981148701000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIiTw_DfzPwCFQAAAAAdAAAAABAn">
  <img src="https://komarev.com/ghpvc/?username=sovid7&label=Profile%20views&color=0e75b6&style=flat" alt="sovid7" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
